@@ -1,3 +1,5 @@
+# Lusophone technological wishlist proposals
+
 This is the first task for `T347259:` redirected to `F347737` Addressing the `Lusophone technological wishlist proposals`.
 
 Objective of the task: Create a JavaScript script to manipulate a json object and print it in a human legible format.
@@ -14,3 +16,9 @@ e.g. `Article "André Baniwa" (Page ID 6682420) was created at September 12, 202
 Commit your HTML file to GitHub and send us a link to it (by email, on our talk page, or replying to this tickect, as you prefer).
 Make sure to also register it as a contribution on the Outreachy website! We'll send you a reply to say whether it is accepted or not.
 
+# MY CONTRIBUTIONS
+1. I contributed toward improving a html site using JavaScript to write a script, translating the input information to more readable (user friendly) displays.
+2. The date was formatted into "MONTH DAY, YEAR" from a general format.
+3. The name of the html was edited to reflect my name (as was the title).
+4. I tried to go beyond the expectation by adding some cool colour to the background to improve my chances of selection.
+5. I used VS Code to create it. 
