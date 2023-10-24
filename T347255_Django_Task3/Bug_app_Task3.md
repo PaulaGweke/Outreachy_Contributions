@@ -12,7 +12,7 @@
    * Create a html template with a simple list with links to the detail page of each bug.
 
 # My Contribution
-Following the tutorial steps, as recorded in task 2. I used the API Shell to define a single bug, `ERROR`
+1. Following the tutorial steps, as recorded in task 2. I used the API Shell to define a single bug list, "BUG_TYPES" that contians a dropdown of all the bug tyyes
 2. I created the templates for registered bug, `register_bug`, bug view `view_bug` and bug lists `list_bug` (see Bug/templates/)
 I was able to view the bug list as in previous step. The list of bug is in the "BUG_TYPES" listed bug created in step 2. 
 ![Image](https://github.com/PaulaGweke/Outreachy_Contributions/blob/main/T347253/django_task3.png) 
